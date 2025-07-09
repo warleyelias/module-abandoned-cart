@@ -1,11 +1,11 @@
 {
-    "name": "co-well/module-abandoned-cart",
+    "name": "warleyelias/module-abandoned-cart",
     "description": "Abandoned Cart Email for Magento 2",
     "require": {
         "magento/module-quote": "101.*"
     },
     "type": "magento2-module",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": [
         "OSL-3.0"
     ],
